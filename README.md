@@ -4,7 +4,9 @@ Hi! Me Ciler_Kot
 📚 about me:
 
 ❤️I'm studying web development.
+
 ☎️ You can contact me via Telegram.
+
 I speak Russian and a little English.
 
 ⚡️ languages and tools:
