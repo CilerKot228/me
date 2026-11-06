@@ -1,8 +1,6 @@
 # me
 Hi! Me Ciler_Kot
 
-Full Stack Developer from Moscov
-
 📚 about me:
 
 ❤️I'm studying web development.
